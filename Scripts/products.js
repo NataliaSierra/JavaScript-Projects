@@ -1,0 +1,32 @@
+const products = [
+    {id:1,name:'Floral Seduction',img:'images/beige.jpg',price:'$120.000',},
+    {id:2,name:'Passionbling Crystal',img:'images/crystal.jpg',price:'$40.999',},
+    {id:3,name:'Red Velvet',img:'images/lenci.jpg',price:'$60.990',},
+    {id:4,name:'Black Luxury',img:'images/luxury2.jpg',price:'$80.990',},
+    {id:5,name:'Mesh Skin',img:'images/corsets.jpg',price:'$98.990',},
+    {id:6,name:'Black Power',img:'images/satinblack.jpg',price:'$70.999',},
+    {id:7,name:'Dark Mode',img:'images/trajedebaño.jpg',price:'$150.000',},
+    {id:8,name:'Body Colors',img:'images/lenceria1.jpg',price:'$35.990',},
+    {id:9,name:'Illeanna',img:'images/blusanegra.jpg',price:'$39.990',},
+    {id:10,name:'Sexy Sabotage',img:'images/conjuntocadenas.jpg',price:'$95.990',},
+    {id:11,name:'Sexy neckline',img:'images/vestidoescote.jpg',price:'$60.000',},
+    {id:12,name:'Maxi Dress',img:'images/maxxy.jpg',price:'$70.000',},
+    {id:13,name:'Zara Black',img:'images/zara.jpg',price:'$28.990',},
+    {id:14,name:'PlayBoy',img:'images/liguero.jpg',price:'$80.000',},
+    {id:15,name:'Shinner Bra',img:'images/shinner.jpg',price:'$40.000',},
+    {id:16,name:'Medussa',img:'images/medussa.jpg',price:'$30.990',},
+    {id:17,name:'Lase Chocker',img:'images/lase.jpg',price:'$16.000',},
+    {id:18,name:'Middi Body',img:'images/midi.jpg',price:'$46.990',},
+    {id:19,name:'Femme Dress',img:'images/femme.jpg',price:'$50.000',},
+    {id:20,name:'Sweet Chained',img:'images/style.jpg',price:'$64.000',},
+    {id:21,name:'Chained',img:'images/cadena2.jpg',price:'$70.000',},
+    {id:22,name:'Sunshine',img:'images/sun.jpg',price:'$40.000',},
+    {id:23,name:'Black Dream',img:'images/dream.jpg',price:'$110.999',},
+    {id:24,name:'In the Shadow',img:'images/shadow.jpg',price:'$28.990',},
+    {id:25,name:'Zara Pink',img:'images/pink.jpg',price:'$35.000',},
+    {id:26,name:'Chain Harness',img:'images/chain.jpg',price:'$43.999',},
+    {id:27,name:'Femme du Art',img:'images/art.jpg',price:'$60.000',},
+];
+
+
+
