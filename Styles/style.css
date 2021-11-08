@@ -2,7 +2,6 @@
     margin: 0px;
     
 }
-
 /* webkit, opera, IE9 */
 ::selection { background:#ee7777; color:#fff; }
 /* mozilla firefox */
@@ -41,8 +40,7 @@ header {
 .card_producto {
     padding: 10px;
     margin: 5px 0;
-
-    border: 1px solid #536dff;
+    border: 1px ;
     display: flex;
     justify-content: space-between;
     border-radius: 10px;
@@ -102,7 +100,6 @@ ul{
     width: 100%;
     display: flex;
     justify-content: center;
-    
 }
   
 li {
@@ -111,7 +108,6 @@ li {
     margin-top: 0px;
     
 }
-
 li a {
     display: block;
     padding: 8px;
@@ -183,7 +179,7 @@ li a:hover:not(.active) {
     margin-top: 1rem;
 }
 
-/* Para Zoom al hacer hover o pasar cursor por imagenes. */
+/* Para Zoom al hacer hover por imagenes. */
 .card-image{
     transition: transform.2s;;
 }
@@ -268,19 +264,11 @@ footer h2 {
 
 
 
-
-
-
-
-
-
-
-
 /* Smartphones (portrait y landscape) ----------- */
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
-/* Styles */
+    /* Styles */
 }
  
 /* Smartphones (landscape) ----------- */
